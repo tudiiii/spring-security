@@ -1,4 +1,4 @@
-package me.tutorial.jwt;
+package me.tudy.tutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

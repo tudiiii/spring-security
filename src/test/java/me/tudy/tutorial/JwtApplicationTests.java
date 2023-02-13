@@ -1,4 +1,4 @@
-package me.tutorial.jwt;
+package me.tudy.tutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
